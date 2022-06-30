@@ -1,3 +1,5 @@
 Ini adalah file CV
 
 PT Samsung Electronics Indonesia
+
+Google LLC
